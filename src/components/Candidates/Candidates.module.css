@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+
+.card {
+  width: 20%;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.card__header {
+  text-align: center;
+}
+
+.header__image {
+  width: 75%;
+  height: 130px;
+  object-fit: scale-down;
+}
+
+.card__detail {
+  text-align: center;
+}
+
+.button__detail {
+  background-color: rgb(83 131 98);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  width: 80%;
+}

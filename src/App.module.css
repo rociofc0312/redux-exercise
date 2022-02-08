@@ -1,0 +1,11 @@
+.app {
+  padding: 30px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.votes__container {
+  width: 100%;
+}

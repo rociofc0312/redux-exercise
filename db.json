@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "name": "Candidate 1",
+      "votes": 0,
+      "url": "https://i.pinimg.com/originals/8a/43/0b/8a430b660b1ae0141866294b84d67f35.png",
+      "id": 1
+    },
+    {
+      "name": "Candidate 2",
+      "votes": 0,
+      "url": "https://www.seekpng.com/png/full/16-166079_banner-library-stock-image-toon-png-fantendo-nintendo.png",
+      "id": 2
+    },
+    {
+      "name": "Candidate 3",
+      "votes": 0,
+      "url": "https://i.redd.it/ed18kw8uttv51.png",
+      "id": 3
+    },
+    {
+      "name": "Candidate 4",
+      "votes": 0,
+      "url": "https://www.zeldadungeon.net/wiki/images/8/86/Laruto-Artwork-The-Wind-Waker.png",
+      "id": 4
+    }
+  ]
+}
